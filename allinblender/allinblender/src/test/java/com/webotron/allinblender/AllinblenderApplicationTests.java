@@ -1,0 +1,13 @@
+package com.webotron.allinblender;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class AllinblenderApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
